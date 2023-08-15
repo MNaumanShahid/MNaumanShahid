@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI, ML and Deep Learning as well as other emerging technologies.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ML and python projects.
+- 🎓 I'm currently pursuing B.Tech in Computer Engineering from Jamia Millia Islamia, New Delhi.
 - 📫 How to reach me:
 -                    naumanshahid.work@gmail.com
 -                    https://www.linkedin.com/in/mohammad-nauman-shahid/ 
